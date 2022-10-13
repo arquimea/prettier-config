@@ -1,0 +1,19 @@
+{
+  "name": "@arquimea/prettier-config",
+  "version": "1.0.0",
+  "description": "Arquimea's Prettier configurations",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arquimea/prettier-config.git"
+  },
+  "author": "Arquimea (https://arquimea.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arquimea/prettier-config/issues"
+  },
+  "homepage": "https://github.com/arquimea/prettier-config#readme"
+}
