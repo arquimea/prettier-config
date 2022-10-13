@@ -12,6 +12,11 @@
   },
   "author": "Arquimea (https://arquimea.com)",
   "license": "ISC",
+  "keywords": [
+    "prettier",
+    "prettier-config",
+    "arquimea"
+  ],
   "bugs": {
     "url": "https://github.com/arquimea/prettier-config/issues"
   },
